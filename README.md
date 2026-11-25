@@ -1,9 +1,20 @@
 # Test-1-2-Engineering-Cad
 
-[Caster Wheel](https://cad.onshape.com/documents/15546124fb0415551d507463/w/7b8547bb61835b9a8b5694c2/e/f76a422f916789b7afd08901?renderMode=0&uiState=6ae62962179b177eaad6ea10)
-[Small Sign Post](https://cad.onshape.com/documents/38c44761960229ddd31303be/w/cb9dc13ba7beb95c58f6967a/e/5f605aadf024933ec6d1a878?renderMode=0&uiState=6ae6296770f595dc2936b9ea)
+[Caster Wheel Onshape](https://cad.onshape.com/documents/15546124fb0415551d507463/w/7b8547bb61835b9a8b5694c2/e/f76a422f916789b7afd08901?renderMode=0&uiState=6ae62962179b177eaad6ea10)
+<br>
+[Caster Wheel Thingiverse](https://www.thingiverse.com/thing:7440650)
+<br><br>
+[Small Sign Post Onshape](https://cad.onshape.com/documents/38c44761960229ddd31303be/w/cb9dc13ba7beb95c58f6967a/e/5f605aadf024933ec6d1a878?renderMode=0&uiState=6ae6296770f595dc2936b9ea)
+<br>
+[Small Sign Post Thingiverse](https://www.thingiverse.com/thing:7440651)
+
+
 
 Practice for Science Olympiad Engineering Cad event.
+<br>
+A Caster Wheel is an undriven wheel mounted inside a frame or bracket that attaches to the bottom of a larger object to make it roll easily.
+A Sign Post is a polygon mounted on a pole to indicate a rule or a law. A common example is a Stop Sign in the US.
+
 ## pics
 
 <img width="1000" height="auto" alt="caster wheel" src="https://github.com/user-attachments/assets/28170f0d-016a-4cd2-ad1e-f0dfd732d8dd" />
